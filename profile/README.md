@@ -1,4 +1,6 @@
-# Szoftverfejlesztő és -tesztelő vizsgaremekek (esti, 2021-2022)
+# Szoftverfejlesztő és -tesztelő vizsgaremekek
+
+### 2021-2022 esti évfolyam
 
 Csapatok és repositoryk
 - [BookWorm](https://github.com/vp-vizsgaremek-2021e/BookWorm): Balogh Norbert, Tápai Nándor
